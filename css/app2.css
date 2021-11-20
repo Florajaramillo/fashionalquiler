@@ -572,6 +572,15 @@ body main .cont-2 .cont-home1 .primeras_comuniones img{
     font: courier 100% cursive;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 14pt;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textoterminos .condiciones{
+    width: 80%;
 }
 
 
