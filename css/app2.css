@@ -173,10 +173,14 @@ body main .cont-2 .cont-home1 .novios img{
 
 body main .cont-2 .cont-home1 .quinceaneras{
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 body main .cont-2 .cont-home1 .quinceaneras h2{
-    width: 100%;
+    width: 80%;
     text-align: center;
     font-size: 1.5em;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -184,11 +188,14 @@ body main .cont-2 .cont-home1 .quinceaneras h2{
 
 body main .cont-2 .cont-home1 .quinceaneras img{
     width: 90%;
-    
 }
 
 body main .cont-2 .cont-home1 .primeras_comuniones{
     width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
 body main .cont-2 .cont-home1 .primeras_comuniones h2{
